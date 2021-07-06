@@ -101,26 +101,51 @@ strong{
     box-shadow: 5px 5px 20px rgb(150, 145, 145);
 }
 .recipe-title img{
-    width: 85%;
+    width: 80%;
+    height: 350px;
     padding: 40px 40px;
     border-radius: 70px;
 }
 
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
 .recipe-title h2{
     padding: 0px 30px;
+    font-size: 30px;
 }
 
 .recipe-title p{
 margin: 0px 0px;
 text-align: left;
 padding: 0px 30px;
-font-size: 25px;
+font-size: 22px;
+font-family:monospace;
+}
+
+.social-area{
+    box-shadow: 10px 10px 50px rgb(218, 214, 214);
+    margin: 0px 100px;
+    height: 300px;
+    
+}
+
+.social-media{
+    width: 30%;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 40px;
 }
 
 footer{
     height: 300px;
     background-color: #0B0D17;
     text-align: center;
+    margin-top: 100px;
     padding-top: 50px;
     color: white;
     font-size: 25px;
