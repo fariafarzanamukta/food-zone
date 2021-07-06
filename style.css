@@ -66,13 +66,53 @@ strong{
     font-size: 50px;
     color: #707070;
 }
+
 .about-me {
    width: 50%;
    padding-left: 5%;
    padding-right: 5%;
 }
+
 .about-me p{
     font-size: 25px;
     padding-top: 5%;
-    
+}
+
+.my-recipe h1{
+    font-size: 50px;
+    text-align: center;
+    color: #707070;
+}
+
+.my-recipe p{
+    font-size: 30px;
+    text-align: center;
+    color: #707070;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: #8D8D8D;
+}
+.recipe-title{
+    width: 30%;
+    height: 720px;
+    margin-left: 50px;   
+    margin-right: 50px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 20px rgb(150, 145, 145);
+}
+.recipe-title img{
+    width: 85%;
+    padding: 40px 40px;
+    border-radius: 70px;
+}
+
+.recipe-title h2{
+    padding: 0px 30px;
+}
+
+.recipe-title p{
+margin: 0px 0px;
+text-align: left;
+padding: 0px 30px;
+font-size: 25px;
 }
