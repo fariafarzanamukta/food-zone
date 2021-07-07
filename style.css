@@ -22,9 +22,9 @@ body{
     margin-top: 300px;
 }
 
-h1{
+.top-section h1{
     margin-left: 200px;
-    font-size: 30px;
+    font-size: 40px;
     color:white;
 }
 .order-food-part{
@@ -175,6 +175,15 @@ footer{
 }
 .best-offer{
     background-image: url(images/offer-bg.jpg);
+    text-align: center;
+    
+}
+.best-offer h1{
+    font-weight: 900px;
+    text-align: center;
+}
+.best-offer p{
+    text-align: center;
 }
 .discount{
     color: red;
